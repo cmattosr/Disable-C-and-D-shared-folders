@@ -11,4 +11,4 @@ An application to remotely stop C$ and D$ shared folders in a list of servers
 - Run the application
 - Check Log.txt to see the output of the application
 
-<img src="https://github.com/cmattosr/Disable-C-and-D-shared-folders/raw/main/images/interface.png>
+![App Interface](https://github.com/cmattosr/Disable-C-and-D-shared-folders/raw/main/images/interface.png)
